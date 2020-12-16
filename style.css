@@ -12,6 +12,10 @@ body > .container {
 
   }
 
+  #contactHeader {
+    background-color: rgb(152, 244, 240) !important;
+  }
+
   
 
   .footer {

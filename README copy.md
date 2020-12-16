@@ -1,17 +1,27 @@
-Project Name: Meredith Jones Unit2-Responsive-Portfolio
+Project Name: Meredith Jones Updated Portfolio
+======================================================================
 
-Project Description: 
+* Project Description: 
 
-I created this proejct as an initial step to build my portfolio for my new career path as a developer. I began with the contact page pictured below: 
+For this project, I am working to update my portfolio to show potential employers some of the work that I have completed during my current coding bootcamp education. 
 
-![Contact Page] (assets/images/screen_shot_1.jpg)
+I have added screenshot links to my portfolio of the group project that I just completed with my team, as well as two of my projects which I believe stood out from the others in their appearance and functionality. 
 
-Although this first step took me many hours, I was happy to see that a lot of the work that I did in formatting the header, footer and links could be duplicated in the other two pages of my portfolio. 
+I additionally updated the color scheme, and corrected some of the styling that was still somewhat rough around the edges from when I first put my portfolio together during the first weeks of the bootcamp. I have included a screenshot below of my portfolio page's current appearence, as well as the original as a point of comparison. 
 
-I got a lot of practice in using the Bootstrap grid system which I think will be of great use to me as time goes on. I appreciated the functionality that it provided for my portfolio images page in particular. I have included a screenshot of that page below for reference.
+![“An image of Meredith Jones' current portfolio landing page, the color scheme is black and light green.”](assets/images/current.png)
 
-! [Portfolio Images and Links to Projects] (assets/images/screen_shot_2.jpg)
+Below is my original portfolio page design: 
+![“An image of Meredith Jones' original portfolio landing page. The color scheme is purple and blue.”](assets/images/screen_shot_2.png)
 
-The page that I ended up struggling with the most was my "About Me" bio page. After many hours of trial and error, including consulting with my classmates as well as an Ask BCS Learning Assistant, I was unable to make to the card function or present the way that I know it should. I made numerous attempts at different approaches to make the text of my bio wrap around around my photo, but no amount of floating or orienting did the job. 
 
-Unfortunately, given the time constraints that I am working with, I am subitting the project knowing that one of the pages is not as it should be. I welcome any feeback about how I can make it function and display as instructed.
+There is still room for improvement and work to be done in order for me to have my portfolio, resume and professional profile pages where I would like them to be for my job search. The updates that I made for this project are a step in the right direction and I am looking forward to making continued improvements. 
+
+* Technology Used: 
+    -HTML
+    -CSS
+    -FontAwesome
+    -Bootstrap 
+
+* License 
+    The MIT License (MIT)
